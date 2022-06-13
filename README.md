@@ -1,2 +1,2 @@
-# React_exercises-Personal-management--App
+# React_exercises-Personal Management--App
 For more familiarity with arrays
